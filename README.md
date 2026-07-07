@@ -1,5 +1,5 @@
 # Untitled-Maze-Game
-A game I made for a school project. Used to have sound, but the links stopped working. Along with all the other projects I made that year, this was made on <https://academy.cs.cmu.edu/>, so it requires [Desktop CMU Graphics](https://academy.cs.cmu.edu/desktop) to run. To play without downloading, use [this link](https://academy.cs.cmu.edu/sharing/coralScorpion3906) for the game or [this link]((https://academy.cs.cmu.edu/sharing/redMouse4489)).
+A game I made for a school project. Used to have sound, but the links stopped working. Along with all the other projects I made that year, this was made on <https://academy.cs.cmu.edu/>, so it requires [Desktop CMU Graphics](https://academy.cs.cmu.edu/desktop) to run. To play without downloading, use [this link](https://academy.cs.cmu.edu/sharing/coralScorpion3906) for the game or [this link](https://academy.cs.cmu.edu/sharing/redMouse4489) for the editor.
 
 ## How to play
 - Arrow keys to move
